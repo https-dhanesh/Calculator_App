@@ -87,7 +87,7 @@ create table calculations (
 ```
 
 🧪 Testing Guide
-
+```
 Sign Up: Create a new user in the app.
 
 Log In: Enter credentials to access the calculator.
@@ -97,7 +97,7 @@ Calculate: Type 5 + 5 =. The result 10 appears.
 Verify History: The calculation appears in the list below.
 
 Test Limit: Perform 11 calculations. The list should strictly show only the most recent 10.
-
+```
 📝 License
 
 This project is open-source and available for educational purposes.
