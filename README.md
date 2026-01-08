@@ -28,11 +28,11 @@ A full-stack mobile application that performs calculations and syncs history to 
 
 1. Prerequisites
 
-Node.js installed on your computer.
+    Node.js installed on your computer.
 
-Expo Go app installed on your phone.
+    Expo Go app installed on your phone.
 
-A Supabase project (for database & auth).
+    A Supabase project (for database & auth).
 
 2. Backend Setup (Server)
 
