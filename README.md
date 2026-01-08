@@ -4,25 +4,25 @@ A full-stack mobile application that performs calculations and syncs history to 
 
 🚀 Tech Stack
 
-Frontend: React Native (Expo), React Native Paper
+    Frontend: React Native (Expo), React Native Paper
 
-Backend: Node.js, Express.js
+    Backend: Node.js, Express.js
 
-Database: Supabase (PostgreSQL)
+    Database: Supabase (PostgreSQL)
 
-Authentication: Supabase Auth
+    Authentication: Supabase Auth
 
 ✨ Features
 
-User Authentication: Secure Login and Sign Up using Email/Password.
+    User Authentication: Secure Login and Sign Up using Email/Password.
 
-Cloud History: Calculations are saved instantly to the database.
+    Cloud History: Calculations are saved instantly to the database.
 
-Smart Retention: Backend logic ensures only the last 10 calculations are stored per user (FIFO).
+    Smart Retention: Backend logic ensures only the last 10 calculations are stored per user (FIFO).
 
-Real-time UI: History updates automatically after every calculation.
+    Real-time UI: History updates automatically after every calculation.
 
-Cross-Platform: Runs on Android and iOS (via Expo).
+    Cross-Platform: Runs on Android and iOS (via Expo).
 
 🛠️ Setup & Installation
 
